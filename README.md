@@ -73,6 +73,4 @@ Se puede exportar a:
 
 ## Captura del Tablero de Trabajo
 
-*(Agrega aquí una captura de pantalla del programa en ejecución o del tablero visual si usaste uno como Trello, Notion, etc.)*
-
-![Captura de Ejemplo](captura.png)
+![Captura de Ejemplo](Tablero.png)
