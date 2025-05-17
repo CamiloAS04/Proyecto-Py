@@ -1,8 +1,7 @@
 # Sistema de Gestión de Hojas de Vida
 
 ## Integrantes y Grupo
-- **Nombre:** [Tu Nombre Aquí]  
-- **Grupo:** [Nombre del grupo o número de equipo]
+- **Nombre:** Juan Camilo Alvarez Sanchez  
 
 ## Descripción General
 
