@@ -1,5 +1,5 @@
-from hojasdevida import *
-from reportes import *
+from Hojasdevida import *
+from Reportes import *
 from rich.console import Console
 
 console = Console()
