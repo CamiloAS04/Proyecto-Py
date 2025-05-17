@@ -5,7 +5,7 @@
 
 ## Descripción General
 
-Este sistema permite registrar, consultar, actualizar y generar reportes sobre hojas de vida de candidatos. Cada hoja de vida incluye datos personales, formación académica, experiencia laboral, referencias y habilidades.  
+Un que sistema permite registrar,consultar,actualizar y generar reportes sobre hojas de vida de candidatos. Cada hoja de vida incluye datos personales,formación académica,experiencia laboral,referencias y habilidades.  
 El sistema almacena la información en formato JSON y ofrece funcionalidades para exportar los datos en formatos JSON, CSV y TXT.
 
 ### Funcionalidades principales:
@@ -16,7 +16,6 @@ El sistema almacena la información en formato JSON y ofrece funcionalidades par
 - Exportación de datos en múltiples formatos
 
 ## Instrucciones para Ejecutar el Programa
-
 1. Clona o descarga este repositorio.
 2. Asegúrate de tener Python 3 instalado.
 3. Instala las dependencias necesarias (ver siguiente sección).
