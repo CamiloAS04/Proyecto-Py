@@ -1,6 +1,6 @@
 # Sistema de Gestión de Hojas de Vida
 
-## Integrantes y Grupo
+## Integrante
 - **Nombre:** Juan Camilo Alvarez Sanchez  
 
 ## Descripción General
